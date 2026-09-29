@@ -1,6 +1,6 @@
 # Program to check whether a string is a palindrome
 
-text = input("Enter a string: ")
+text = "madam"
 
 # Remove spaces and ignore letter case
 cleaned_text = text.replace(" ", "").lower()
